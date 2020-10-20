@@ -1,0 +1,11 @@
+cd C:\python-spider-master\douyin
+mitmweb -s C:\python-spider-master\douyin\sign.py
+
+[2018.11.19]
+JeremyLin林书豪7的抖音短视频合集！
+更多精彩内容，请关注「同和系视频矩阵」~
+
+
+
+https://api2.musical.ly/aweme/v1/aweme/post/?max_cursor=1540929669000&user_id=168886527542931456&count=10&retry_type=no_retry&app_language=en&language=en&region=US&sys_region=CN&carrier_region=&carrier_region_v2=460&build_number=9.1.0&timezone_offset=28800&timezone_name=Asia%2FShanghai&mcc_mnc=&is_my_cn=1&fp=4rT_c2KIF2FSFlxSFlU1LSFIcrc1&pass-region=1&pass-route=1&iid=6626636908757993222&device_id=6602594942541956613&ac=wifi&channel=googleplay&aid=1233&app_name=musical_ly&version_code=910&version_name=9.1.0&device_platform=android&ab_version=9.1.0&ssmix=a&device_type=MI+8&device_brand=Xiaomi&os_api=27&os_version=8.1.0&openudid=3315c3ec46d01b83&manifest_version_code=2018111632&resolution=1080*2118&dpi=440&update_version_code=2018111632&_rticket=1543137915125&ts=1543137914&as=a1e5f69fbad76b8ada4244&cp=6671bf55a8a3fba3e1Si%5Bm&mas=01bf27d5d260fdaea1e394797fd5f995812c2c4c2c8626861c466c
+
